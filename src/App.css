@@ -1,4 +1,13 @@
 #root {
-  margin: 0;
-  padding: 0;
+ 
+}
+
+body {
+  
+  background-image: 
+  linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+  url('/src/assets/portal-morty-smith-rick-borderless.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
